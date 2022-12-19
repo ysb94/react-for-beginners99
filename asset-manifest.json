@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/ysb94/react-first/blob/master/package.json/static/js/main.db72fa63.js",
-    "index.html": "/ysb94/react-first/blob/master/package.json/index.html",
-    "main.db72fa63.js.map": "/ysb94/react-first/blob/master/package.json/static/js/main.db72fa63.js.map"
+    "main.js": "/react-for-beginners99/static/js/main.5abb921d.js",
+    "index.html": "/react-for-beginners99/index.html",
+    "main.5abb921d.js.map": "/react-for-beginners99/static/js/main.5abb921d.js.map"
   },
   "entrypoints": [
-    "static/js/main.db72fa63.js"
+    "static/js/main.5abb921d.js"
   ]
 }
